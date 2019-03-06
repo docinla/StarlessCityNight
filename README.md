@@ -20,11 +20,11 @@ fit together and need sorting out. But starts to get all jumbled up on lower res
 
 **To install**:
 
-go to directory: `/usr/share/plasma/wallpapers`
+go to your directory: `/usr/share/plasma/wallpapers`
 
-then type: `sudo git clone https://github.com/docinla/CityNight.git`
+then type: `sudo git clone https://github.com/docinla/StarlessCityNight.git`
 
-It should now be available if you right click on the Plasma desktop -> Configure Desktop -> wallpaper tab on left, and in the Wallpaper type dropdown on the right panel.
+It should now be available if you right click on the Plasma desktop -> Configure Desktop -> Wallpaper tab on left, and in the Wallpaper type dropdown on the right panel.
 
 Remember! After clicking apply it will need to compile it which will take a while depending on hardware (takes 30min for me) but then caches the scene so when you reload or log-in again it should pop right up.
 
